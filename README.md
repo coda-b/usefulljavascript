@@ -1,4 +1,4 @@
-# ...
+# Usefull links and kill yourself
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
