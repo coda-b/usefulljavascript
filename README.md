@@ -1,4 +1,4 @@
-# Useful links and kill yourself
+# Useful links (JavaScript)
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
@@ -802,3 +802,5 @@ http://www.listjs.com
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 * [dinbror/you-might-not-need-jquery-plugins](https://github.com/dinbror/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews)
+
+# End
