@@ -1,6 +1,6 @@
 # Useful links (JavaScript)
 
-A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
+A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries and resources.
 
 * [Awesome JavaScript](#awesome-javascript) 
   * [Package Managers](#package-managers)
